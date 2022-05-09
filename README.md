@@ -1,1 +1,5 @@
 # 3R_Robot_Controlled_with_Matlab
+This project shows the development of the construction of a robotic arm seeking to achieve a better interpretation of the concepts addressed in the subject of Industrial Robotics, as well as a general analysis of the calculations required in this application.his project shows the development of the construction of a robotic arm seeking to achieve a better interpretation of the concepts addressed in the subject of Industrial Robotics, as well as a general analysis of the calculations required in this application.
+The objective of this practice is to create a robotic arm of minimum 3 degrees of freedom controlled by a PC with a friendly User Interface for its manipulation. It should ideally respond to 5 modes of operation: manual, forward and inverse kinematics, trajectory, and teaching mode. 
+
+In addition, some considerations have to be taken into account, among them: a minimum work area of a volume of 10x10x10 cm, as well as the last link has to be originally made and not use the links provided by the tutor.
